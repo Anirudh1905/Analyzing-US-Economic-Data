@@ -1,2 +1,2 @@
-# Analyzing-US-Eeconomic-Data
+# Analyzing-US-Economic-Data
 A Data Analysis Project 
